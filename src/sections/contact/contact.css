@@ -1,0 +1,22 @@
+.contact__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+.contact__icons img {
+    width: 100px;
+    border-radius: 20%;
+}
+
+.contact__icons a {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contact__icon {
+    font-size: 50px;
+    color: var(--color-black);
+}
